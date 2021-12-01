@@ -1,5 +1,4 @@
 # KREO Exercise
-======
 
 Exercise realized in the course "creation of static sites".
 
